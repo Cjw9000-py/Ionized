@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ionized",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ionc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ionc-Debug-70aa182ea890a2856c60.json",
+					"name" : "ionc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libionc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libionc-Debug-f8c2a9c2e76e784feb0c.json",
+					"name" : "libionc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_lexer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_lexer-Debug-122ad6a58b03e1899ecd.json",
+					"name" : "test_lexer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_list::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_list-Debug-5121091a72005ee3a30c.json",
+					"name" : "test_list",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/cjw/CLionProjects/Ionized/cmake-build-debug",
+		"source" : "/home/cjw/CLionProjects/Ionized"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

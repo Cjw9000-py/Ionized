@@ -1,0 +1,6 @@
+/home/cjw/CLionProjects/Ionized/cmake-build-debug/CMakeFiles/libionc.dir
+/home/cjw/CLionProjects/Ionized/cmake-build-debug/CMakeFiles/ionc.dir
+/home/cjw/CLionProjects/Ionized/cmake-build-debug/CMakeFiles/test_list.dir
+/home/cjw/CLionProjects/Ionized/cmake-build-debug/CMakeFiles/test_lexer.dir
+/home/cjw/CLionProjects/Ionized/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cjw/CLionProjects/Ionized/cmake-build-debug/CMakeFiles/rebuild_cache.dir
